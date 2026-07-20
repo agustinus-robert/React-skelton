@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Product"
+  },
+  {
+    "name": "Adjustment"
+  },
+  {
+    "name": "Brand"
+  },
+  {
+    "name": "Category"
+  },
+  {
+    "name": "Variant"
+  },
+  {
+    "name": "SubVariant"
+  },
+  {
+    "name": "Supplier"
+  },
+  {
+    "name": "Reporting"
+  },
+  {
+    "name": "User"
+  },
+  {
+    "name": "Role"
+  }
+]
